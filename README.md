@@ -26,9 +26,9 @@ I'm a Computer Science student passionate about programming and web development.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarr-py&layout=compact&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=sanskaraacharya77-ctrl&color=blue)
+![](https://komarev.com/ghpvc/?username=sanskarr-py&color=blue)
 
-![](https://github-profile-trophy.vercel.app/?username=sanskaraacharya77-ctrl&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=sanskarr-py&theme=onedark)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sanskar+Acharya;Python+Developer;Django+Learner;100+Days+of+Django)](https://git.io/typing-svg)
 
