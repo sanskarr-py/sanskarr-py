@@ -115,19 +115,14 @@ I'm currently following a **100 Days of Django** challenge to strengthen my back
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add your LinkedIn -->
-<!--
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/sanskar-acharya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
--->
 
-<!-- Add your Instagram -->
-<!--
-<a href="https://instagram.com/yourusername">
+<a href="https://instagram.com/sanskar_ac">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
--->
+
 
 </p>
 
