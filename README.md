@@ -38,4 +38,4 @@ I'm a Computer Science student passionate about programming and web development.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](YOUR_LINK)
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,git,github,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,django,html,css,github,mysql,vscode)](https://skillicons.dev)
