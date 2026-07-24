@@ -2,7 +2,7 @@
 
 
 
-# 🎓 BSc.CSIT Student | Django Learner
+# 🎓 BSc.CSIT Student from Nepal
 
 ## 🔍 <a href="https://www.google.com/search?q=Sanskar+Acharya">Google Me</a>
 
@@ -18,7 +18,6 @@ I'm currently following a **100 Days of Django** challenge to strengthen my back
 - 💻 Interested in Programming & Web Development
 - 🚀 Building projects and sharing my learning journey
 - 📚 Always learning something new
-- ⚡ Fun Fact: Every expert was once a beginner.
 
 <p align="left">
 <a href="https://github.com/sanskarr-py">
@@ -115,7 +114,7 @@ I'm currently following a **100 Days of Django** challenge to strengthen my back
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sanskar-acharya-5b60663b0//" target="_blank">
+<a href="https://www.linkedin.com/in/sanskar-acharya-5b60663b0/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -123,9 +122,9 @@ I'm currently following a **100 Days of Django** challenge to strengthen my back
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="mailto:sanskaraacharya77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanskaraacharya77@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
