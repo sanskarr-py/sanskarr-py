@@ -23,8 +23,6 @@ I'm currently following a **100 Days of Django** challenge to strengthen my back
 <a href="https://github.com/sanskarr-py">
 <img src="https://img.shields.io/github/followers/sanskarr-py?logo=github&style=for-the-badge&color=0891b2&labelColor=000000"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sanskarr-py&style=for-the-badge&color=blue" />
 </p>
 
 ---
