@@ -12,8 +12,8 @@ I'm a Computer Science student from Nepal who enjoys learning programming and bu
 
 I'm currently following a **100 Days of Django** challenge to strengthen my backend development skills and improve my understanding of web development.
  
-- 🌍 Based in Nepal
-- 🎓 BSc.CSIT Student
+- 🌍 Based in Pokhara, Nepal
+- 🎓 BSc.CSIT Student 
 - 🌱 Currently learning **Django**
 - 💻 Interested in Programming & Web Development
 - 🚀 Building projects and sharing my learning journey
