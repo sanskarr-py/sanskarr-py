@@ -11,7 +11,7 @@
 I'm a Computer Science student from Nepal who enjoys learning programming and building projects. I believe in learning by doing, so I regularly work on personal projects and document my progress on GitHub.
 
 I'm currently following a **100 Days of Django** challenge to strengthen my backend development skills and improve my understanding of web development.
-
+ 
 - 🌍 Based in Nepal
 - 🎓 BSc.CSIT Student
 - 🌱 Currently learning **Django**
